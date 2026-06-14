@@ -1,0 +1,9 @@
+{
+ "author": "OmerGafny",
+  "version": "1.0.0",
+  "category": "tax-and-finance",
+  "tags": { "he": ["הנהלת חשבונות", "כלות כפולה"], "en": ["accounting", "kalut-kfula"] },
+  "display_name": { "he": "כלות כפולה Web", "en": "Kalut Kfula Web" },
+  "display_description": { "he": "סקיל רשמי למימוש ממשק ה API של קלות כפולה ווב", "en": "Offical skill for Kalut Kfula Web API - Accounting and Invoicing software" },
+  "supported_agents": ["claude-code", "cursor", "github-copilot", "windsurf", "opencode", "codex", "gemini-cli"]
+}
